@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4c0102/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部二
+  hash: sha256:12d8190cadcf5eac3a9a3b81ae053c873dee29480bf15c1526bdc2f7417fab40
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4c0102_WYG_000-1a, image: WYG1084/WYG1084-0001a.png}
+body:
+  text: 唐英歌詩别集類一唐提要臣等謹案唐英歌詩三卷唐吳融撰融字子華越州山隂人龍紀元年登進士第昭宗時官至翰林學士承旨户部侍郎知制誥事迹具唐書本傳融與韓偓同第進士又同為翰林學士故偓有與融玉堂同直詩然二人唱酬僅一兩篇未詳其故以立身本末論之偓心在朝廷力圖匡輔以孱弱之文士毅然折逆黨之凶鋒其詩所謂報國危曾捋虎鬚者實非虛語純忠亮節萬萬非融所能及以文章工拙論則融詩音節諧雅猶時有中唐之遺風較偓所作有過之無不及焉在天祐諸詩人中雖閒逺不及司空圖沉摯不及羅隱繁富不及皮日休奇闢不如周朴然其餘作者實罕與雁行唐書本傳稱昭宗反正融於御前跪作十餘詔少選即成意詳語當唐詩紀事又稱李巨川為韓建草謝表以示融融吟罷立成一篇巨川賞歎不已蓋在當時亦鐡中錚錚者矣乾隆四十六年十月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:cfb86fddc4dbf97c23b99e5bcb7afe652d46fa328ca540ee7ead401577c67bd4
+metadata:
+  title: 唐英歌詩
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:49:29.081386'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4c0102/KR4c0102_000.txt
+hash: sha256:bbdf84376a76a4d5b388d41711988f24efe0d6c5c8f98bb5f2eb27eb87a001ed

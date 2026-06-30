@@ -1,0 +1,88 @@
+canonical_identifier: bkk:krp/KR4c0102/v1
+canonical_location: https://kanripo.org/bkk/KR4c0102/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 唐英歌詩
+  date: '2015-08-24 23:49:29.081386'
+  source:
+    repository: kanripo
+    path: KR4c0102
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR4c0102_000.yaml, hash: 'sha256:bbdf84376a76a4d5b388d41711988f24efe0d6c5c8f98bb5f2eb27eb87a001ed'}
+  - {seq: 1, filename: KR4c0102_001.yaml, hash: 'sha256:0422ffb1956cbad7ba109babdef71f80e907c786bb819842e3a76471256e3c62'}
+  - {seq: 2, filename: KR4c0102_002.yaml, hash: 'sha256:e8f646770b014c235c99e726d9ad0a97859ddd948c839c94265c0b31fca62b1f'}
+  - {seq: 3, filename: KR4c0102_003.yaml, hash: 'sha256:4e15b0d57cb35a01c6257cb4b9757342d3b65db3f789998245950873b8bc5ece'}
+  - {seq: 4, filename: KR4c0102_004.yaml, hash: 'sha256:a94fe01a871fc6798f2c613c5d4586ca3866484365a5eca1b0cc41d6e9eb2342'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4c0102_000.markers.yaml, hash: 'sha256:1f1ba217b0a7828ddabdfa8a7d1c2aa26948209790a0318281f34fc845687826'}
+  - {seq: 1, role: markers, filename: assets/KR4c0102_001.markers.yaml, hash: 'sha256:f710b2996d134bde5c43b4fee51fb648c8dedba92d6f6d07adfc53e4210a3021'}
+  - {seq: 2, role: markers, filename: assets/KR4c0102_002.markers.yaml, hash: 'sha256:4fbb02f41d007556b11636d305bab9c6db75f4491d8f789254a75581a7e58db4'}
+  - {seq: 3, role: markers, filename: assets/KR4c0102_003.markers.yaml, hash: 'sha256:e987a14f681cd64b2237b7f4e0e3fcfcc10ff02489916439e3ebe536b1e385b1'}
+  - {seq: 4, role: markers, filename: assets/KR4c0102_004.markers.yaml, hash: 'sha256:61672bdeabd6161595e4b747e98067699615e8f92e3077d0995d3838113b1683'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4c0102_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 338
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR4c0102_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 6894
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR4c0102_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 4111
+  label: 卷中
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR4c0102_WYG_003-1a
+    span:
+    - body
+    - 0
+    - 7375
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR4c0102_WYG_004-1a
+    span:
+    - body
+    - 0
+    - 503
+  label: 跋
+  type: section
+  level: 1
+hash: sha256:cae46796122d4179f11b5f0980c765763846a8debca1db64f31d6ad13c7f0f98
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
